@@ -1,4 +1,4 @@
-# MLG_hw1_DrBC
+# 社群網路與推薦系統作業一：MLG_hw1_DrBC
 
 - 社群網路與推薦系統作業一：實作論文中的DrBC model
 
